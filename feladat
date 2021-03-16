@@ -1,0 +1,2000 @@
+git users
+git branch
+git branch main
+git branch --help
+git checkout
+git branch
+git checkout -b main
+git checkout main
+ls
+git checkout main
+git checkout kutya
+ls
+git checkout main
+merge kutya main
+git status
+git log
+git log --online
+git log --oneline
+git log --all
+git push
+git log --all
+git checkout main
+git fetch origin
+git status
+git l
+git log
+cat README.md 4
+cat README.md 
+status
+git checkout git diff
+git diff
+git diff --cached
+git diff main cica
+git diff main kutya
+git log
+git diff commit b3d7f44177d23a9ba62b4c62bcf1fdc0f9613714 e2e378326955a50e260adb700f2884d6925ecfe5
+git diff b3d7f44177d23a9ba62b4c62bcf1fdc0f9613714 e2e378326955a50e260adb700f2884d6925ecfe5
+cd ..
+ls
+git init
+git proba2 init
+git init proba2
+lsű
+ls
+cd proba2
+lsű
+ls
+git status
+git add kappa_7.js 
+git commit -m "Kappa random"
+git status
+git push
+git remote add proba2
+git -m remote add proba2
+git remote add -m proba2
+git push
+git branch -M main
+ls
+git push
+git status
+git branch -M main
+git remote add -m proba2
+git remote add -f proba2
+git fetch
+ls
+git status
+cd proba2
+ls
+git commit -m "Kappa random"
+git push
+echo "# Kappa" >> README.md
+ls
+git init
+ls
+ls -a
+git status
+git add README.md 
+git commit
+ls
+nano README.md 
+ls
+git status
+echo "# Kappa" >> README.mdecho "# Kappa" >> README.md
+git init
+git add README.md
+git commit -m "fak"
+git branch -M main
+git remote add origin git@github.com:DanMaKappa88/Kappa.git
+ls
+git push -u origin main
+cp ~haladjunk
+ls haladjunk
+ls ./haladjunk
+ls ~/haladjunk
+ls ~
+ls ~/kappa/Day-8-gyak-tomb-npm-xd-valami/
+cd .. 
+cd ..
+cd Kappa
+cd ..
+ls
+cd haladjunk
+ls
+cd FLOW_KAPPA/
+ls
+cs gyakorlat/
+cd gyakorlat/
+ls
+cd ..
+cd gyakorlat/
+ls
+cd ..
+cd ~
+ls
+cd kappa
+ls
+cd Day-8-gyak-tomb-npm-xd-valami/
+ls
+git init
+ls
+ls -all
+git add task.js
+ls
+git commit "otletem sincs mit csinalok"
+git status
+git config --global user.name
+git commit -m "jah nem tudom mit csinalok"
+git status
+git diff
+ls
+git status
+cd..
+cd ..
+ls
+git add Day-3-object-array/feladat.js 
+git init
+ls
+git push -u origin main
+ls
+Day-4-string-programming-thing/
+git Day-4-string-programming-thing/
+git add Day-4-string-programming-thing/
+ls
+git status
+git add Day-6/
+ls
+ls Day-6
+rd .git /S/Q
+cd Day-6
+git init
+git add .
+ls
+git commit -m ""
+git commit -m "Az osszes ..."
+git remote add origin git@github.com:DanMaKappa88/Kappa.git
+ls
+git push -u origin master
+git origin
+git --help
+git init git diff
+git diff
+ls
+git init
+git status
+cd ..
+ls
+Day-1-basics/
+.git status
+git status
+git add Day-1-basics/
+git status
+git branch
+git branch HEAD 
+git branch
+cd Day-1-basics/
+ls
+git status
+git add feladat1.js 
+git status
+git commit -m "Azt se tudom mivan"
+git status
+git checkout 
+git checkout master
+git checkout HEAD 
+git checkout --
+git checkout --.
+git checkout -b
+git checkout -b master
+git checkout --overlay
+git checkout agazas
+git checkout -b agazas
+ls
+git checkout master
+git checkout agazas
+ls
+git status
+nano hello.js
+git status
+git add hello.js 
+git status
+git commit "Dikk a commit"
+git commit -m "Dikk a commit"
+git status
+git push
+git push hello.js
+git push --set-upstream hello.js
+git push --set-upstream hello.js agazas
+chmod 777 hello.js
+ls
+ls-l
+ls -l
+git push --set-upstream hello.js agazas
+git remote add origin git@github.com:DanMaKappa88/CringeChamp.git
+ls
+git status
+git restore
+git restore hello.js
+ls
+git status
+nano hello.js
+git status
+git restore
+git restore hello.js
+nano hello.js
+git status
+git add hello.js
+ls
+git status
+git commit -m "Proba tesa"A
+git status
+git push
+git checkout 
+ls
+git push
+git remote add origin git@github.com:DanMaKappa88/CringeChamp.git
+git remote origin git@github.com:DanMaKappa88/CringeChamp.git
+git remote origin git@github.com:DanMaKappa88/PogChamp.git
+git remote add origin git@github.com:DanMaKappa88/PogChamp.git
+git remote add proba git@github.com:DanMaKappa88/PogChamp.git
+git status
+git checkout agazas
+git psuh
+git push
+git push --set-upstream origin agazas
+git status
+git remote -v
+fetch
+git fetch
+git checkout 
+git checkout master
+git clone 
+ls
+cd Day-3-object-array/
+node elmeletgyakstring.js 
+A
+node elmeletgyakstring.js 
+node myRandom.js
+node fuggveny.js
+node elmeletgyakstring.js 
+node tetelek.js
+cd ..
+cd Day-4-string-programming-thing/
+node tetelek.js
+node string.js
+node tetelek.js
+node string.js
+node tetelek.js
+node feladat.js
+cd ..
+ls
+Day-5-scopes-other-programming-things/
+cd Day-5-scopes-other-programming-things/
+node test.js
+ls
+cd ..
+ls
+cd Day-5-scopes-other-programming-things/
+LS
+ls
+node test.js
+cd ..
+cd buci/
+node buci.js
+cd ..
+cd Day-5-scopes-other-programming-things/
+node test.js
+cd ..
+cd buci
+node buci.js
+cd ..
+cd Day-5-scopes-other-programming-things/
+node test.js
+cd ..
+cd Day-4-string-programming-thing/
+node feladat.js
+cd ..
+cd Day-5-scopes-other-programming-things/
+node ACTUAL.js
+node actual.js
+node feladatmegold.js
+node actual.js
+node feladatmegold.js.js
+node feladatmegold.js
+node feladatmegold.js.js
+node feladatmegold.js
+node feladatmegold.js.
+node feladatmegold.js
+node feladatmegold.js.
+ls
+node feladatmegold.js 
+node feladatmegold.js
+cd ..
+ls
+cd Day-6
+ls
+node gyakorlo.js
+node codewarsgyakorlo.js
+node codewarsgyak.js 
+node gyakorlo.js
+node codewarsgyak.js 
+cd ..
+cd Day-7-scopes-other-programming-things/
+node sort.js 
+ls
+node sort.js 
+ls
+node sort.js á
+node sort.js
+node 2dArray.js 
+npm innit
+node 2dArray.js 
+npm install chalk
+node 2dArray.js 
+cd ..
+ls
+cd Day-6
+ls
+node gyakorlo
+mv ~/Downloads/cars.json 
+mv ~/Downloads/cars.json ./
+cp cars.json ~/kappa/Day-7-scopes-other-programming-things/
+cs..
+cd ..
+ls
+cd Day-7-scopes-other-programming-things/
+ls
+cp ~/Downloads/cars_task.js 
+cp ~/Downloads/cars_task.js ./
+ls
+node cars_task.js 
+cp ~/Downloads/cars2.json 
+cp ~/Downloads/cars2.json ./
+lsconst cars = require('./cars.json');
+node cars_task.js 
+cp ~/Downloads/cars2.json ./
+node cars_task.js 
+man npm isntall
+man mpn isntall
+man npm
+let readLine = require(‘readline-sync’);
+npm install readLine
+cd ..
+ls
+cd Day-8-gyak-tomb-npm-xd-valami/
+ls
+.jscp ~/Download/kappa_
+cp ~/Download/kappa_7.js
+cp ~/Download/kappa_7.js ./
+cp ~/Downloads/kappa_7.js ./
+ls
+node kappa_7.js 
+npm install
+npm install readLine
+node -v
+npm -v
+npm install get-line
+man get-line
+npm install readLine
+npm install readLine-sync
+npm install readline-sync
+node kappa_7.js 
+cp ~/Downloads/task.js 
+cp ~/Downloads/task.js ./
+cp ~/Downloads/town_distance_matrix.csv 
+cp ~/Downloads/town_distance_matrix.csv ./
+ls
+npm i -s fast-csv
+ls
+read file sync
+read file_sync
+read file.sync
+read file_sync
+node task.js
+// Adott egy csv formátumú fájl, amely a magyar megyeszékhelyek közúton való távolságát tartalmazza mátrix formátumban.
+// a, Készíts js modul, amely exportál egy függvéynt, amely beolvassa a csv fájlt és 2d tömböt készít belőle
+// b, készíts js modult, amely exportál egy függvényt, amely két várost vár paraméterként és a köztük lévő távolságot adja vissza a mátrix alapján
+// c, Egészítsd ki az előző modult egy olyan függvénnyel, amely egy string tömböt vár, ami egy útvonalat tartalmaz. A függvény visszaadja az útvpnal hosszát!
+// d, A readline-sync NPM csomag segítségével kérj be a felhasználótól két várost és számítsd ki a köztük levő távolságot
+const fs = require('fs')
+let segedT=[];
+const file = fs.readFileSync('./town_distance_matrix.csv', {encoding:'utf8'});
+segedT=file.replace(';');
+console.log('town_distance_matrix.csv',segedT);
+node task.js 
+console.log('town_distance_matrix.csv',segedT);
+node task.js 
+cd Day-9-read-timeout-rekurzio/
+ls
+npm init
+npm install readline-sync
+node read.js
+node read-async.js 
+cd..
+cd ..
+cd Day-8-gyak-tomb-npm-xd-valami/
+cd ..
+cd Day-8-gyak-tomb-npm-xd-valami/
+ls
+npm install table
+node task.js 
+let data,
+node task.js 
+git checkout develop
+git checkout --
+git status
+cd ..
+cd Day-9-read-timeout-rekurzio/
+node gyakorlat.js 
+ls
+node read-async.js 
+node gyakorlat.js 
+node read-async.js 
+node gyakorlat.js 
+a
+node gyakorlat.js 
+b
+node gyakorlat.js 
+b
+node gyakorlat.js 
+a
+node gyakorlat.js 
+b
+node gyakorlat.js 
+fsd
+node gyakorlat.js 
+cd ..
+cd Day-10/
+ls
+node maps.js
+ls
+node maps.js
+npm install table
+node maps.js
+node index.js
+node maps.js
+npm install table
+node maps.js
+node index.js
+node maps.js
+node index.js
+node maps.js
+node index.js
+cd ..
+cd KappaGitProba/
+node proba5.js 
+git checkout master
+git checkout -b Marton
+git checkout Marton 
+cd ..
+ls
+cd kappa-cat-man/
+git checkout
+git status
+pull
+git pull
+sit status
+git status
+git add kappa-cat-man
+git statusls
+ls
+git push
+git checkout Marton
+ls
+ls -a
+git checkout master
+git checkout MartonA
+git pull
+ls
+git checkout master
+ls
+cd ~
+ls
+cd FLOW_KAPPA/
+ls
+cd kappa-cat-man/
+ls
+node maps.ja
+node maps.js
+ls
+git status
+git add maps.js 
+git status
+git add maps.js 
+git add maps
+git status
+git commit
+git status
+git push
+ls
+node maps.js
+node index.js
+node maps.js
+node index.jsA
+node index.js
+git status
+git add index.js maps.js 
+git status
+git commit 
+git status
+git push
+git checkout Marton 
+git pull master
+git pull origin master
+git checkout main
+git checkout master
+ls
+git status
+node maps.ja
+node maps.js
+node index.js 
+git status
+git add maps.js 
+git status
+git commit
+git status
+git push
+git checkout Marton 
+git pull
+git pull master
+git pull origin master 
+git checkout master
+ls
+git status
+node gamePlay.js 
+node maps.js
+node gamePlay.js 
+node index.js 
+node gamePlay.js 
+node index.js 
+node gamePlay.js 
+node index.js 
+node gamePlay.js 
+node index.js 
+node gamePlay.js 
+npm install table
+node gamePlay.js 
+node index.js 
+node gamePlay.js 
+git status
+node gamePlay.js 
+git status
+git pull
+git status
+git restore index.js maps.js package.json
+git pull
+node index.js
+npm readline-sync
+npm install readline-sync
+git status
+node gameplay.js 
+node index.js 
+git status
+git pull
+git restore 
+git restore .
+git status
+git pull
+git status
+git pull
+git status
+git checkout master
+git status
+git pull
+git psuh
+git push
+git status
+git add index.js
+git status
+node gameplay.js 
+node index.js 
+node index.js
+git status
+git add .
+git commit
+git status
+git push
+node index.js
+git status
+git add .
+git commit 
+git push
+node index.js 
+node index.js ű
+git status
+git add index.js 
+git commit -m "small change to make change direction random"
+git push
+node index.js 
+cd ~
+ls
+cd kappa
+lsű
+ls
+cd ..
+cd FLOW_KAPPA/
+cd kappa-cat-man/
+ls
+node index.js 
+
+node index.js 
+git status
+git add .
+git status
+git commit
+git status
+git push
+node index.js 
+git status
+git diff index.js
+git diff maps.js
+node index.js 
+git diff maps.js
+node index.js 
+git remote add url git@github.com:DanMaKappa88/feb26proba.git
+ls
+git status
+git clone
+git fetch
+git pull
+git pull origin master
+remote -v
+git remote -v
+fetch
+git fetch
+ls
+git clone 
+git fetch
+git fetch origin
+git fetch master
+touch Readme
+ls
+git push
+ls
+git clone git@github.com:DanMaKappa88/feb26proba.git
+lsű
+ls
+git push
+git push url
+git remote -v
+git status
+ls
+cd feb26proba/
+ls
+git status
+git add task.js 
+git status
+git commit
+ls
+git status
+git remote -v
+git push
+ls
+git status
+nano task.js 
+git status
+git add task.js 
+git commit -m "Most ugrik"
+git status
+git chechkout
+git checkout
+git push
+git status
+git branch --help
+git branch --list
+git branch --help
+git branch 
+git branch delabule
+git status
+ls
+git branch --help
+git branch --a
+git branch -a
+git branch -l
+checkout delabule
+checkout --help
+git checkout
+git checkout delabule 
+touch valami.txt
+nano valami.txt
+git status
+git add valami.txt
+git commit
+git push
+git push url
+git remote -m
+git remote -v
+git push origin
+git push origin delabule
+git remote -v
+git push
+git push --set-upstream origin delabule [A
+git push
+git pull
+git status
+cd..
+cd ..
+git status
+git remote -v
+git push
+git push origin
+git push url
+git push url master
+cd feb26proba/.git/
+git remote -v
+cd ..
+git push
+git status
+ls
+pwd
+touch enNemTudom.txt
+nano enNemTudom.txt 
+git status
+cd ..
+git status
+touch valaki.txt
+ls
+git status
+git add valaki.txt 
+git status
+git commit -m "ohhhh zavar "
+git status
+gitdiff
+git diff
+git push
+git push master
+cd feb26proba/
+git status
+ls
+git add enNemTudom.txt 
+git status
+git commit 
+git status
+git remote -v
+git status
+git push
+git checkout delabule 
+git push
+git status
+git push
+git checkout origin/delabule 
+git switch delabule 
+git push
+git pull
+git switch main 
+git push
+git status
+git switch delabule 
+commit enNemTudom.txt  -m "Mivaaannnn???" 
+git commit enNemTudom.txt  -m "Mivaaannnn???" 
+git status
+git push
+git remote -v
+git checkout
+touch valami257.txt
+git status
+git add valami257.txt
+git commit "jah nezzuk"
+git commit -m "jah nezzuk"
+git push
+git pull origin DELABULE
+git pull origin delabule
+cd ..
+git pull origin delabule
+git pull delabule
+git diff
+git status
+cd feb26proba/
+ls
+git pull origin delabule
+git pull origin main
+git status
+git push
+ls
+git checko
+git checkout 
+git main
+git checkout main
+git status
+git pull origin delabule 
+git status
+git checkout 
+git checkout delabule 
+touch segedfajl.txt
+git status
+git add segedfajl.txt 
+git commit -m "Ok csa"
+git push
+git checkout 
+git checkout qMAIN
+git checkout 
+git checkout main
+git status
+git push
+git status
+git pull origin delabule 
+git status
+git push
+git status
+mkdir notporn
+git status
+ls
+touch Omegalul
+ls
+git status
+git add Omegalul
+git status
+git commit -m "Ok csacscscscscsa"
+git push
+git switch delabule 
+git status
+git pull origin delabule 
+git pull origin main
+git status
+git push
+git switch delabule 
+git touch proba42
+git touch proba4123124
+touch proba4123124
+touch proba412
+git status
+git add proba412 proba4123124 
+git status
+gdiff
+git diff
+git commit -m "POGCHAMP"
+git push
+git switch main 
+git pull
+git pull origin delabule 
+git status
+git push
+git branch --help
+git log
+git pull
+git pull -h
+mkdir proba2
+ls
+cd notporn
+git init
+git remote add origin git@github.com:flowacademyhu/kappa-pract-feb26.git
+git status
+git checkout
+git checkout HEAD 
+git checkout -b xXx6ix9ineXxX
+git pull
+ls
+git status
+cd ..
+ls
+mkdir proba2
+cd proba2
+git init
+git remote add git@github.com:flowacademyhu/kappa-pract-feb26.git
+git remote add Marton git@github.com:flowacademyhu/kappa-pract-feb26.git
+git status
+git checkout HEAD
+git checkout 
+git checkout -b Marton
+git checkout Marton
+git pull
+git pull Marton 
+git pull main
+git pull main Marton
+git checkout main
+git remote -v
+git checkout main
+git pull
+ls
+nano main.js
+git status
+git add main.js 
+git commit -m "Baktalo gadzses"A
+
+git status
+git checkout Marton
+git checkout marton
+git checkout Marton/main
+git switch  Marton/main
+remote -l
+git remote -l
+git branch -av
+git push --set-upstream origin Marton
+git remote -v
+git status
+git checkout main
+git status
+git branch
+git checkout -b Marton
+nano main.js 
+git add main.js 
+git commit -m "siker"
+git push -u
+git push -u Marton Marton
+git diff
+git diff -h
+git pull origin main
+git remote -v
+git checkout
+git checkout main
+git pull origin main
+git pull Marton main
+nano main
+nano main.js 
+git pull Marton main
+git add main.js 
+git commit main.js 
+git pull Marton main
+cd .. 
+cd ..
+mkdir feb27proba
+ls
+cd feb27proba/
+ls
+git innit
+git init
+ls
+ls -a
+echo "# feb27gyakorlo" >> README.md
+ls
+git status
+git add README.md 
+git status
+git commit -m "a -m csak azért kell hogy ne nyiljon fel a commit jegyzettombje és itt irhassak"
+git branch master 
+git branch -M main
+git remote -v
+git checkout 
+ls
+git remote add kiskutya git@github.com:DanMaKappa88/feb27gyakorlo.git
+git remote -v
+git status
+touch valami.txt
+git status
+git add valami.txt 
+git status
+git commit -m "uj fajl hogy lásd barmennyit lehet"
+git status
+git push
+git push kiskutya main
+a kiskutya main azaz elso azaz alap 0 torzsen agan vagyok
+innen létrehozunk egy uj branchet 
+git branch kiskutya/main -b nagykutya
+a git branchel nem igy hozunk letre uj ágat itt van hogy 
+git checkout -b nagyKutya
+ls
+ez egy uj ag a kiskutyabol a kiskutya ugyanaz marad most itt dolgozunk
+git status
+echo valami1.txt
+echo valami2.txt
+echo valami3.txt
+git status
+de ehhez is hozzá kell adni a branchet a remote addel
+git remote add  git@github.com:DanMaKappa88/feb27gyakorlo.git
+git
+ls
+touch valami1.txt
+touch valami2.txt
+touch valami3.txt
+git status
+most a nagykutya agon vagyunk a kiskutya ag semmit nem lat ebbol , teljesen mas
+git add valami1.txt valami2.txt valami3.txt 
+git commit -m "sok valami XD"
+itt az ideje pusholni
+git push
+git push nagykutya 
+git remote add nagykutya git@github.com:DanMaKappa88/feb27gyakorlo.git
+git push nagykutya 
+git push nagykutyaOrigin nagykutya
+git push nagykutya nagykutya
+git push kiskutya 
+git checkout 
+git status
+git push
+git push nagykutya
+git push nagykutya nagykutya
+git push nagykutya nagyKutya 
+itt hibaztam mert csak siman push oltam de eloszor meg kell adni az agat ezert lett a git push nagykutya nagyKutya mert a lokális nagykutya az online nagyKutya branchre mutat
+git status
+git checkout de ha nem rontottam volna el  a nevet a K nagybetuvel akkor alap git push nagyKutya is jo
+git push nagykutya 
+git push nagykutya nagyKutya
+ok beneztem , tudtam h cica jobb
+git checkout 
+git remote -v
+git checkout kiskutya/main 
+git checkout kiskutya
+git branch kiskutya/main 
+git status
+git checkout main
+git pull nagykutya 
+git pull nagykutya nagyKutya 
+git status
+git push
+git push kiskutya 
+git push kiskutya main 
+itt sikerult megszivatnom magam mert valami normalis origin vagy valami nev helyett itt kiskutyaztam ami csak egy referencia a helyi gepemen ugymond minek hivom itt ezért probálkoztam rengeteget dubla TAB segit . SOK SIkert :)
+ls
+cd..
+mkdir marc1
+ls
+cdd ..
+cd ..
+mkdir marc1
+cd marc1/
+ls
+$ git clone https://github.com/hgarc014/git-game.git
+git init
+$ git clone https://github.com/hgarc014/git-game.git
+git clone https://github.com/hgarc014/git-game.git
+ls
+cd git-game
+ls
+cat README.md 
+git status
+git commit -h
+
+git log | grep Hello
+git log | grep commit 
+git log --grep Hello
+git checkout git co 640273807f9bac8af03575f82b788663d4b99927
+git co 640273807f9bac8af03575f82b788663d4b99927
+git commit 640273807f9bac8af03575f82b788663d4b99927
+git co 640273807f9bac8af03575f82b788663d4b99927
+git commit 640273807f9bac8af03575f82b788663d4b99927
+git checkout Henry 
+git co 640273807f9bac8af03575f82b788663d4b99927
+git commit 640273807f9bac8af03575f82b788663d4b99927
+git checkout master
+git status
+ls
+cat README.md 
+git log
+git co 640273807f9bac8af03575f82b788663d4b99927
+git checkout 640273807f9bac8af03575f82b788663d4b99927
+ls
+cat README.md 
+git checkout bug
+ls
+cat README.md 
+nano cool.cpp 
+git status
+git diff
+git diff cool.cpp
+git log
+git checkout Henry
+git checkout master
+ls
+git checkout bug
+nano cool.cpp 
+git checkout 
+git log cool.cpp
+git checkout LinusTorvalds2014 
+ls
+cat README.md 
+ls -a
+ls .gitignore 
+ls -a .gitignore 
+git blame cool.cp
+cat .gitignore 
+ls
+checkout
+git checkot
+git checkout
+git checkout tree
+cat R
+cat README.md 
+git blame nextclue_input.cpp
+./outputclue.sh 
+cat nextclue_input.cpp 
+cat outputclue.sh 
+git blame outputclue.sh
+nano outputclue.sh 
+./
+nano outputclue.sh 
+./outputclue.sh 
+nano outputclue.sh 
+./outputclue.sh 
+nano outputclue.sh 
+cat outputclue.sh 
+ls -a
+git diff outputclue.sh code4life
+cat .gitignore
+ls -a
+git blame outputclue.sh
+wim outputclue.sh 
+cat nextclue_input.cpp 
+nano nextclue_input.cpp 
+./outputclue.sh 
+nano nextclue_input.cpp 
+nano outputclue.sh 
+./outputclue.sh 
+nano outputclue.sh 
+cat outputclue.sh 
+cat nextclue_input.cpp 
+nano nextclue_input.cpp 
+./outputclue.sh 
+nano nextclue_input.cpp 
+./outputclue.sh 
+nano nextclue_input.cpp 
+./outputclue.sh 
+cat outputclue.sh 
+nano outputclue.sh 
+git log outputclue.sh
+cat outputclue.sh 
+git status
+git conflict
+git con
+ls
+cat README.md 
+git ./outputclue.sh nextclue_input.cpp
+git ./outputclue.sh -h
+git ./ -h
+nano outputclue.sh 
+cat outputclue.sh 
+git log
+git log --format=%h --merges
+git blame outputclue.sh
+git merge -h
+git checkout 
+git checkout
+./outputclue.sh nextclue_input.cpp
+git checkout mouse 
+git commit -m "XD"
+git add nextclue_input.cpp outputclue.sh 
+git commit -m "XD"
+git status
+git push
+git checkout 
+git checkout mouse 
+ls
+cat README.md 
+git log
+diff remember 
+diff remember -h
+cat remember 
+cat remeber
+cat remember 
+ls
+cat README.md 
+git log
+git diff remember origin/map
+git status
+git checkout Henry 
+ls
+cat README.md 
+git checkout origin/Henry  
+ls
+cat README.md 
+ls
+git commit -h
+git log --grep Hello
+cat README.md 
+git fork -h
+git remote -v
+git checkout 
+git remote -v
+git branch 
+git checkout
+git log
+git status
+git remote -v
+git remote add upstream https://github.com/hgarc014/git-game.git
+git remote -v
+git fetch upstream
+git fetch upstream Henry:Henry 
+git fetch upstream Henry:Henry git status
+git status
+git checkout
+git checkout -a
+git checkout -v
+git diff mouse/remember bug/remember
+git diff --mouse/remember --bug/remember
+git status
+git checkout master 
+git status
+git fetch upstream Henry:Henry git status
+git fetch upstream Henry:Henry
+git remote -v
+git fetch origin Henry:Henry 
+git status
+git checkout Henry 
+ls
+cat README.md 
+git checkout origin/Henry
+ls
+git checkout origin/Henry 
+ls
+cat README.md 
+git status
+git checkout mouse 
+git diff bug remember
+git diff remeber bug remember
+git diff mouse remeber bug remember
+git diff mouse remember bug remember
+git diff remember bug remember
+git merge bug remember
+git merge mouse
+git merge remeber
+git merge -h
+git checkout origin Henry
+git checkout origin/Henry 
+cat README.md 
+git remote -v
+git checkout mouse 
+git log
+git diff bug remeber
+git diff bug remember
+git checkout tree
+git status
+git log
+git reset
+git reset --hard f5c5727388ecfea996ca81ed32e57026955111f7
+git log
+cat README.md 
+./outputclue.sh nextclue_input.cpp 
+git pull origin code4life 
+nano nextclue_input.cpp 
+git pull origin code4life 
+git merge origin/code4life 
+git merge
+git add nextclue_input.cpp
+git commit nextclue_input.cpp 
+git merge
+git merge origin/code4life 
+git commit -m "ez jo"
+git merge
+git merge -h
+git merge origin/code4life 
+cat R
+cat README.md 
+cat cat
+cat catman
+cat nextclue_input.cpp 
+ls
+./outputclue.sh 
+./outputclue.sh nextclue_input.cpp 
+cat outputclue.sh 
+cat nextclue_input.cpp 
+git tag -d Henry
+cat README.md 
+git checkout Henry
+git checkout origin/Henry 
+ls
+git checkout origin/He
+git checkout origin/Henry
+ls
+cat README.md 
+git remote -v
+ls
+git status
+git checkout master 
+cat README.md 
+git remote -v
+git remote add upstream https://github.com/drami025/git-game.git
+git remote remove upstream 
+git remote add upstream https://github.com/drami025/git-game.git
+git remote -v
+git pull upstream 
+cat README.md 
+git checkout master 
+git pull upstream 
+git pull upstream master
+cat README.md 
+ami volt a Henry readme fajlában utvonalat kellett beállitani upstreamnek a main brancre az a git remote add upstream es a link aztán azt kell lehuzni pull a master mappaban a pull upstream master parancsal
+cd ~/kappa/
+mkdir kappa-cat-man
+git clone git@github.com:flowacademyhu/kappa-cat-man.git
+git ignore
+ls
+cd kappa-cat-man/
+git clone git@github.com:flowacademyhu/kappa-cat-man.git
+ls
+ls-a
+cd kappa-cat-man/.git/
+ls
+cd ..
+ls
+ls -a
+git pull
+git status
+git pull
+ls
+cd ..
+cd ~
+ls
+cd FLOW_KAPPA/
+git clone git@github.com:flowacademyhu/kappa-cat-man.git
+ls
+űcd kappa-cat-man/
+cd kappa-cat-man/
+git status
+git ada .
+git commit -m "A palya"
+git add .
+git commit -m "A palya"
+git status
+git push
+git checkout 
+git pull
+git brnach -u Marton
+git checkout -b Marton
+git checkout 
+git checkout master
+git checkout Marton 
+
+git pull
+git pull origin master
+ls
+ls -a
+git checkout 
+git checkout Marton
+cd ..
+ls
+cd FLOW_KAPPA
+ls
+cd kappa-cat-man
+ls
+git status
+git checkout 
+git checkout git push
+git status
+git push 
+git status
+ls
+ls -a
+cd ..
+ls
+cd kappa-cat-man/
+ls
+git status
+git pull
+git checkout origin/master 
+git checkout master
+ls
+git pull
+ls
+ls -a
+git status
+git ls
+ls
+git log
+cd ..
+ls
+cd gyakorlat/
+ls
+cd ..
+cd kappa/
+cd KappaGitProba/
+ls
+mkdir marc3proba
+cd marc
+cd marc3proba/
+ls
+git clone https://github.com/git-game/git-game-v2.git
+ls
+cd git-game-v2/
+ls
+cat README.md 
+git ls-files
+cd AllFiles/
+git ls-files
+git all list
+git list -h
+git all -h
+git ls-files .
+cd ..
+git ls-files .
+git ls-files -wc
+git ls-files | wc
+git status
+git checkout 751
+ls
+cat README.md 
+
+cat README.md 
+git checkout master 
+git ls-files \ wc -l
+git ls-files | wc -l
+git checkout 26
+cat README.md 
+git checkout master 
+git checkout 721
+cat README.md 
+git checkout master 
+git ls-files -a | wc -l
+git ls-files -c | wc -l
+git ls-files -d | wc -l
+git ls-files -m | wc -l
+git ls-files -o | wc -l
+git ls-files -z | wc -l
+git ls-files -t | wc -l
+git ls-files --directory | wc -l
+git ls-files --with-tree | wc -l
+cd all files
+cd ..
+cd git-game-v2/
+cd AllFiles/
+ls-a
+ls -a
+git checkout 30
+ls
+cd ..
+ls
+cat README.md 
+git checkout master
+git ls-files | xargs wc -l
+git checkout 6865
+ls
+cat README.md 
+git checkout 6861
+cat README.md 
+git show
+git log
+16a28decee95df6d07def6cfdf32b3eee2c626c9
+git show 16a28decee95df6d07def6cfdf32b3eee2c626c9
+git log commits
+git show commit
+git show commits
+git show -h
+git checkout snowden
+ls
+cat README.md 
+git log
+wc -l
+git log -s
+git log --group
+git log --author=
+git log --author | wc
+git log --author | wc -l
+git log group --author | wc -l
+git log group --author
+git log group author
+git log --group author
+git shortlog
+git checkout anon
+ls
+cat README.md 
+git shortlog
+git shortlog -s
+git describe 
+git describe -h
+git describe --contains
+git describe all
+git describe --all
+git describe --tags
+git checkout return 
+ls
+cat README.md 
+cat checkout pretty
+git checkout pretty
+ls
+cat README.md 
+find .git/objects
+git log
+git log -s
+git shortlog
+git shortlog -s
+git describe
+git log %T
+git log --pretty=format %T
+git log --pretty=format: =T
+git log --pretty=format: %T
+git log --pretty=format:%T
+git log --pretty -h
+git log -h
+git log --help
+git log --pretty=format:%T --shortstat
+git log --pretty=format:%T 
+find .git/objects
+git cat-file -p a47684e5cbf8268fc154eb4c2e3d9624f7eaad95
+git cat-file a47684e5cbf8268fc154eb4c2e3d9624f7eaad95
+git cat-file -p a47684e5cbf8268fc154eb4c2e3d9624f7eaad95
+git cat-file -p a47684e5cbf8268fc154eb4c2e3d9624f7eaad95.idx
+git cat-file -p pack-a47684e5cbf8268fc154eb4c2e3d9624f7eaad95
+git cat-file -p a47684e5cbf8268fc154eb4c2e3d9624f7eaad95
+git log --pretty=%T
+git log --pretty=%T %H
+git log --pretty=%H
+git log --pretty=%T || log --pretty=%H
+git log --pretty="%T -%H"
+cat README.md 
+git commit 5373f3d4bf271fa6353b3786d3d8756989c5b0c5
+git log 5373f3d4bf271fa6353b3786d3d8756989c5b0c5
+git cat-file 5373f3d4bf271fa6353b3786d3d8756989c5b0c5
+git describe 5373f3d4bf271fa6353b3786d3d8756989c5b0c5
+git status
+git checkout SIGPOLL
+cat README.md 
+ls
+cd Java/
+ls
+ls -a
+cd ..
+git show
+git show 3368e42d77b8ed97a031589de2168eec67d8d988
+git log
+git submodule status 
+git submodule update
+git submodule update --init
+ll Bugs/
+cat Java/README.md 
+git checkout history 
+git grephint.edu
+git grep hint.edu
+git grep hint.edu $(git rev-list --branches history)
+git grep 'hint.edu' $(git rev-list --branches history)
+gity checkout cherry
+gity checkout cheerry
+git checkout cherry
+git chee
+git cher
+git cher-pick
+git cherry-pick
+git cherry-pickorigin/arachnid4
+git cherry-pickorigin/arachnid\4
+git cherry-pickorigin/arachnid~4
+git cherry-pick origin/arachnid~4
+git lb
+git cherry-pick origin/insect~3
+git show *commit hash*
+git show 
+cd ~
+ls
+cd FLOW_KAPPA/
+ls
+cd kappa-cat-man/
+ls
+node index.js 
+npm app-get update
+app-get update
+apt app-get update
+apt-get update
+sudo apt-get update
+sudo apt-get upgrade
+node index.js 
+cd ..
+apt install netcet
+sudo apt install netcet
+sudo apt install netcat
+nc example.com 80
+sudo apt-get install dnsutils
+dig
+dig google.com
+dig facebook.com
+netcat -l 5000
+ipconfig
+ifconfig | grep inet
+sudo apt install net-tools
+ifconfig | grep inet
+nc 192.168.5.56 5000
+nc 192.168.5.56 500
+nc 192.168.5.56 5000
+nc 192.168.5.147 5000
+nc 192.168.52 5000
+Jonkapot kivanok
+nc 192.168.52 5000
+jonkapot
+nc 192.168.47 5000
+ls
+nc ls 192.168.*
+nc ls 192.168.58
+nc 192.168.45 5000
+baktalo
+nc 192.168.47 5000
+baktalo
+nc 192.168.60 5000
+sad
+nc 192.168.67 5000
+asdas
+nc 192.168.53 5000
+asd
+nc 192.168.52 5000
+nc 192.168.51 5000
+sad
+nc 192.168.59 5000
+asdas
+nc 192.168.140 5000
+asd
+nc 192.168.99 5000
+sad
+nc 192.168.49 5000
+cs
+nc 192.168.45 5000
+dsa
+nc 192.168.66 5000
+asd
+nc 192.168.66 5000
+sad
+nc 192.168.55 5000
+sasd
+nc 192.168.57 5000
+nc 192.168.58 5000
+asd
+nc 192.168.56 5000
+nc 192.168.99.1 5000
+nc 192.168.5.46 5000
+willi wonka
+nc 192.168.5.57 5000
+nc 192.168.5.60 5000
+baktalo
+nc 192.168.5.55 5000
+nc 192.168.5.54 5000
+nc 192.168.5.53 5000
+baktalo
+nc 192.168.5.147 5000
+nc 192.168.5.56 5000
+nc 192.168.5.58 5000
+bojler elado
+nc 192.168.5.147 5000
+nc 192.168.5.34 5000
+baktalo
+nc 192.168.5.47 5000
+nem
+nc localhost 5000
+nc -l 5000
+git status
+git add .
+git status
+git commit -m "basic PvP system and rules 0.0.1."
+git push
+git status
+node index.js 
+git status
+git add .
+git commit "change map pvp in function"
+git commit -m "change map pvp in function"
+git push
+node index.js 
+git status
+git add .
+git commit -m "checkTarget almost done"
+git push
+node index.js 
+git status
+git add .
+git commit -m "checkTarget done"
+git push
+node highscore.js 
+git status
+git add .
+git commit -m "highscore beginning"
+git push
+git status
+git pull
+npm install
+node menu.js
+asf
+asdq
+node menu.js
+asd
+npm install axel
+node menu.js
+node highscore
+node highscore.js 
+node index.js 
+ls
+node index.js 
+npm axel maps
+node index.js 
+node highscore.js 
+node index.js 
+node highscore.js 
+node index.js 
+node highscore.js 
+node index.js 
+cd FLOW_KAPPA/
+ls
+cd kappa-cat-man/
+node main.js
+node menu.js
+cd FLOW_KAPPA/
+cd kappa-cat-man/
+node menu.js
+cd FLOW_KAPPA/kappa-cat-man/
+node menu.js 
+FLOW_KAPPA/kappa-cat-man/
+cd FLOW_KAPPA/kappa-cat-man/
+node menu.js 
+node menu.js [A
+git status
+git diff maps
+git diff index.js
+git diff menu.js
+git diff master
+node menu.js
+git status
+git push
+git status
+node index.js 
+node menu.js 
+sd
+node highscore.js 
+node menu.js 
+node index.js 
+node menu.js 
+git status
+git add .
+git commit -m "implemenTed start function from index to menu.js"
+git push
+git pull
+git push
+git add .
+git commit -m "resolved"
+git push
+git status
+node menu.js 
+node highscore.js 
+git status
+git add .
+git commit -m "highScore from file parseing to int every number"
+git push
+node menu.js
+git status
+git add .
+git commit -m "highScore added to menu, now we can write out high scores"
+git push
+node menu.js
+git status
+git add .
+git commit -m "minor"
+git push
+git status
+node menu.js
+git status
+node menu.js
+git status
+git diff menu.js
+git status
+git add .
+git commit
+git status
+node index.js 
+node menu.js
+git status
+git status
+node menu.js 
+git status
+node menu.js 
+git diff
+git pull
+git checkout
+git diff highscore.js
+node menu.js 
+git chechkout
+git checkout
+git checkout master 
+node menu.js 
+git status
+git stash
+git status
+git pull
+git reset HEAD~
+git status
+git piull
+git pull
+git satus
+git status
+git pull
+git stash
+git status
+git pull
+git status
+cd ..
+cd ~
+ls
+cd FLOW_KAPPA/
+git clone https://github.com/flowacademyhu/kappa-cat-man.git
+git status
+ls
+cd kappa-cat-man/
+ls
+git status
+node menu.js
+npm install
+node menu.js
+git status
+node menu.js
+git diff
+node menu.js
+;1R
+node menu.js
+;1Rq
+node menu.js
+git status
+node menu.js
+node menu
+node index
+node
+node menu
+ps
+ps -af
+sudo kill -9 32768
+ps -af
+node menu
+git add .
+gity status
+git status
+git commit -m "taken out unncesseary parts"
+git push
+git status
+git push
+ls
+cd FLOW_KAPPA/
+cd kappa-cat-man/
+ls
+node menu
+git status
+git add .
+git commit -m "highscore file changes , menu and printout changes and debug"
+git diff
+git status
+git push
+git status
+cd FLOW_KAPPA/
+cd kappa-cat-man/
+git status
+git push
+node menu
+clear
+node menu
+clear
+node menu
+node menu
+git status
+git stash
+git status
+git pull
+node menu
+a
+node menu
+git status
+git stash
+git status
+git pull
+git status
+git add .
+git commit
+git status
+git push
+git status
+git push
+git push
+git status
+git commit bbbed62eb97d9d6e85b6b07c7e3605da89bbb380
+git diff
+git reset --hard HEAD
+git status
+git pull
+git status
+git merge -- abort
+git merge --abort
+git pull
+git status
+git stach
+git stash
+git diff
+git statsh
+git stash
+git pull
+git add .
+git git commit -m "minor fix"
+git commit -m "minor fix"
+git pull
+git status
+git log
+git pull
+git status
+git reset --hard 6f34af5447ae755dbdd96cf3b5be10c4334df0a9
+git status
+git reset --hard ab4b597d971d5aa24180d444030afe6467495237
+git status
+git pull
+git status
+git add .
+git status
+git pull
+
+node menu.js
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+q
+node menu
+git status
+git push
+git status
+node menu
+q
+node menu
+q
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+clear
+node menu
+git status
+git add .
+git status
+git commit
+git push
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+clear
+node menu
+q
+node menu
+q
+node menu
+git status
+git statusgit pull
+git pull
+git status
+node menu
+npm install
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+node menu.js
+npm start
+sudo npm start
+node menu
+npm i audit
+npm i audic
+node menu
+sudo snap install vlc
+node menu
+node -v
+node menu
+sudo install mpg123
+sudo apt-get install mpg123
+git stash
+git menu
+node menu
+git status
+git pull
+git status
+git stash
+node menu
+cd F
+cd FLOW_KAPPA/
+cd kappa-cat-man/
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+q
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+git status
+git pull
+git stash
+git pull
+node menu
+git pull
+node menu
+git status
+node menu
+cd FLOW_KAPPA/kappa-cat-man/
+node menu
+clear
+git status
+git add .
+git commit
+git push
+sudo apt-get update
+sudo apt-get upgrade
+node menu
+clear
+node menu
+q
+node menu
+clear
+
+node menu
